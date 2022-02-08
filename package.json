@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "first attempts at node modules and server",
+  "main": "app.js",
+  "scripts": {
+    "develop": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benphoon/node-test.git"
+  },
+  "author": "Ben Phoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benphoon/node-test/issues"
+  },
+  "homepage": "https://github.com/benphoon/node-test#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

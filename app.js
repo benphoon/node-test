@@ -9,3 +9,4 @@ getUserInfo.sayName();
 // Testing file directories
 console.log(__dirname);
 console.log(__filename);
+console.log('nodemon test')
